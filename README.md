@@ -1,3 +1,3 @@
 # React-Parcel-Boilerplate
 
-Remove rules from .eslintrc.json if not goint use Typescript
+Remove rules from .eslintrc.json if not going to use Typescript
